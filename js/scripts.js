@@ -12,8 +12,8 @@ let progress = document.querySelector("#progress");
 let reporter = document.querySelector("p > span");
 
 let processingTime = 800;
-/*let i = 0;
-setInterval( function(){
+let i = 0;
+/*setInterval( function(){
 
   if ( i < 99 ) {
     i = i + Math.floor(Math.random() * (25 - 1));
