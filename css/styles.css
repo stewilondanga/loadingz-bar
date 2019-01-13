@@ -51,14 +51,15 @@ body {
   transition: 0.5s ease;
 }
 
-/*h1 {
+h1 {
   margin-bottom: 6vw;
   font-family: arial;
   font-size: 2vw;
   font-weight: 100;
   text-align: center;
 }
-h1 span {
+
+/*h1 span {
   display: block;
   margin-bottom: 1vw;
 }
