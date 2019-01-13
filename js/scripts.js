@@ -13,13 +13,13 @@ let reporter = document.querySelector("p > span");
 
 let processingTime = 800;
 let i = 0;
-/*setInterval( function(){
+setInterval(function() {
 
-  if ( i < 99 ) {
+  if (i < 99) {
     i = i + Math.floor(Math.random() * (25 - 1));
     progress.style.width = i + "%";
     processingTime = Math.floor(Math.random() * (3000 - 800));
-    if ( i >= 99 ) {
+    if (i >= 99) {
       i = 99;
       reporter.textContent = i;
       bar.classList.add('complete');
