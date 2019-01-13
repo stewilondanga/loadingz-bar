@@ -23,7 +23,7 @@ body {
   height: 1.5em;
 }
 
-/*#loading-bar {
+#loading-bar {
   width: 50vw;
   height: 5vw;
   min-height: 24px;
@@ -33,7 +33,8 @@ body {
   box-shadow: 0 0 2vw rgba(0, 127, 255, 0.25);
   overflow: hidden;
 }
-#loading-bar.complete {
+
+/*#loading-bar.complete {
   transition: 0.8s ease;
   transform: rotate(-180deg);
 }
