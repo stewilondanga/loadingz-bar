@@ -39,12 +39,12 @@ body {
   transform: rotate(-180deg);
 }
 
-/*#loading-bar.complete #progress {
+#loading-bar.complete #progress {
   transition: 0.4s ease;
   width: 0% !important;
 }
 
-#progress {
+/*#progress {
   width: 0%;
   height: 100%;
   background: linear-gradient(#25C42F, #25c491);
