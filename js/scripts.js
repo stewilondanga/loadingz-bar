@@ -10,9 +10,9 @@ var navigate = (function() {
 let bar = document.querySelector("#loading-bar");
 let progress = document.querySelector("#progress");
 let reporter = document.querySelector("p > span");
-/*
+
 let processingTime = 800;
-let i = 0;
+/*let i = 0;
 setInterval( function(){
 
   if ( i < 99 ) {
