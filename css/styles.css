@@ -70,7 +70,7 @@ p {
   font-size: 2vw;
 }
 
-/*.reference {
+.reference {
   position: absolute;
   right: 24px;
   bottom: 24px;
@@ -78,7 +78,7 @@ p {
   text-decoration: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
