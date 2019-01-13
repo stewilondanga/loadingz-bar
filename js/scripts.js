@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*let bar = document.querySelector("#loading-bar");
-let progress = document.querySelector("#progress");
+let bar = document.querySelector("#loading-bar");
+/*let progress = document.querySelector("#progress");
 let reporter = document.querySelector("p > span");
 
 let processingTime = 800;
